@@ -1,2 +1,2 @@
 # CMS
-cerate cms application for public users to build their onw static websites 
+cerate cms application for public users to build their own static websites 
